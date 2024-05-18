@@ -1,0 +1,13 @@
+numpy == 1.24.3
+opencv-python == 4.7.0.72
+ultralytics == 8.1.47
+torch == 2.2.0+cu121
+gTTS == 2.5.1
+playsound == 1.3.0
+Kivy==2.3.0
+kivy-deps.angle==0.4.0
+kivy-deps.glew==0.3.1
+kivy-deps.sdl2==0.7.0
+Kivy-Garden==0.1.5
+kivymd==1.2.0
+kiwisolver==1.4.4
